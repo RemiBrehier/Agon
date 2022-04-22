@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304446707592",
+    "project_id": "leaguexr-b40de",
+    "storage_bucket": "leaguexr-b40de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304446707592:android:616829fc8c30bdfeaf8c3d",
+        "android_client_info": {
+          "package_name": "com.AgonLabs.LeagueVR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304446707592-4ohsk992a0hc55hdgl2r1e8pa0b8kg11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4BHgDR3JymUqJ6LxncM3O3rboJrX15t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304446707592-4ohsk992a0hc55hdgl2r1e8pa0b8kg11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
